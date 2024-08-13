@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">맥파 그래프</string>
+    <string name="ip">192.168.4.1</string>
+    <string name="port">12000</string>
+    <string name="bpm">현재 bpm은 %d 입니다.</string>
+    <string name="graph">%s님의 맥파 그래프</string>
+</resources>
